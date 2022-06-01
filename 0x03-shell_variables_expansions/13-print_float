@@ -1,2 +1,2 @@
 #!/bin/bash
-nium
+printf "%.2f\n" $NUM
